@@ -203,5 +203,7 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+.DS_Store
+
 marimo/_lsp/
 __marimo__/
